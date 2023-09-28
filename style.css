@@ -1,1 +1,4 @@
-.cabeçalho{background-color: tomato;}
+.cabeçalho{background-color: tomato;} 
+body{ font-size: 20px;
+}
+.titulo{align-items: center;}
