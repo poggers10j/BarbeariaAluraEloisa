@@ -1,9 +1,14 @@
-body{
-    background-color: gray;
-    font-size: 20px;
+body{font-size: 20px;
+
 text-align: center;}
 
+.principal{text-align: center;
+background-color: gray;}
+
+
+.alinhar{text-align: center;}
 .negrito{color: red;
 }
 
 .imagem{width: 100%;}
+.imagem_beneficio{width: 100%;}
